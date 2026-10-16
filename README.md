@@ -10,15 +10,22 @@ Ce dépôt présente le fonctionnement de l’application, son architecture et l
 
 ## Aperçu
 
-![Screenshot de l'affichage des commandes](screenIos1.PNG)
-![Screenshot de l'affichage des commandes](screenIos2.PNG)
-![Screenshot de l'affichage des commandes](screenAndroid1.jpg)
-![Screenshot de l'affichage des commandes](screenAndroid2.jpg)
-![Screenshot de l'affichage des commandes](screenAndroid3.jpg)
+### Android
 
-| Android | iOS |
-|---|---|
-| ![Screenshot de l'affichage des commandes](screenIos1.png) | ![Screenshot d'une notification](screenIos2.png) |
+<p>
+  <a href="screenAndroid1.jpg"><img src="screenAndroid1.jpg" alt="Capture Android 1 de Croquo" width="220"></a>
+  <a href="screenAndroid2.jpg"><img src="screenAndroid2.jpg" alt="Capture Android 2 de Croquo" width="220"></a>
+  <a href="screenAndroid3.jpg"><img src="screenAndroid3.jpg" alt="Capture Android 3 de Croquo" width="220"></a>
+</p>
+
+### iOS
+
+<p>
+  <a href="screenIos1.PNG"><img src="screenIos1.PNG" alt="Capture iOS 1 de Croquo" width="220"></a>
+  <a href="screenIos2.PNG"><img src="screenIos2.PNG" alt="Capture iOS 2 de Croquo" width="220"></a>
+</p>
+
+Cliquez sur une capture pour l’afficher en taille originale.
 
 ## Comment fonctionne Croquo ?
 
