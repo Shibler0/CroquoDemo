@@ -6,7 +6,7 @@ Croquo facilite la mutualisation des livraisons : une personne organise une comm
 
 Ce dépôt présente le fonctionnement de l’application, son architecture et les principaux défis techniques du projet. Le code source de l’application et du serveur reste privé.
 
-**[Voir la démonstration — lien à ajouter]**
+https://github.com/user-attachments/assets/c208f23f-f43b-43ef-b61a-6308351942e0
 
 ## Aperçu
 
